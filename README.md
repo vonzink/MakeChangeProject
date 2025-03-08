@@ -15,3 +15,10 @@
   - Mod
 
  ## Lessons Learned
+
+
+
+ ## Notes
+
+ I switched amountTendered to amountReceived for my own clarity. 
+ I turned the whole gathering of data into its own method. 
